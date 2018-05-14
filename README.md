@@ -22,5 +22,4 @@
 #### [falvor](http://www.fancynode.com.cn/flavor) 
     类似于craft的中文版，
 ---
-#### [AntSketch]()  
-    便捷使用 IconFont 图标库及小工具
+
