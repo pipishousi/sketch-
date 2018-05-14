@@ -16,7 +16,7 @@
 #### [Sketch Isometric ](http://sketch.im/plugins/140)  
     快速使用画板及图形生成轴测视图
 ---
-#### [Chart](http://sketch.im/plugins/126) 
+#### [Chart](https://github.com/yinyijun/chart) 
     快速根据自定义参数创建常用图表  
 ---
 #### [falvor](http://www.fancynode.com.cn/flavor) 
